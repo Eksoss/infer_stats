@@ -40,3 +40,4 @@ ax.set_ylabel('z')
 
 plt.tight_layout()
 plt.show()
+# plt.savefig('img1.png')
